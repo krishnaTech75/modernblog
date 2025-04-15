@@ -1,0 +1,10 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/auth/login/page": "/auth/login",
+  "/auth/signup/page": "/auth/signup",
+  "/notes/page": "/notes",
+  "/courses/page": "/courses",
+  "/page": "/",
+  "/premium/page": "/premium",
+  "/tech-blog/page": "/tech-blog"
+}
